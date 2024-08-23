@@ -1,0 +1,5 @@
+view\LoginView.class
+com\mycompany\loginapp\LoginApp.class
+controller\CustomerController.class
+model\Customer.class
+view\LoginView$1.class

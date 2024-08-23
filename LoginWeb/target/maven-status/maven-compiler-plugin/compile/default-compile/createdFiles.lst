@@ -1,0 +1,5 @@
+dao\CustomerDAO.class
+controller\LoginServlet.class
+controller\ForgetPasswordServlet.class
+controller\ChangePasswordServlet.class
+model\Customer.class
